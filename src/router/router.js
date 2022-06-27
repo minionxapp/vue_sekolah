@@ -24,7 +24,7 @@ const router = new VueRouter({
                 import( /* webpackChunkName: "PostIndex" */ "@/views/post/Index"),
         },
         {
-            path: '/login',
+            path: '/log',
             name: 'login',
             component: () =>
                 import( /* webpackChunkName: "PostIndex" */ "@/views/login/Login"),
