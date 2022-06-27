@@ -16,7 +16,7 @@
 
                         <!-- berita section -->
                         <div class="col-md-12 mb-3">
-                            <h4><i class="fas fa-book-open"></i> BERITA TERBARU</h4>
+                            <h4><i class="fas fa-book-open"></i> BERITA TERBARU11111111111</h4>
                         </div>
 
                         <div v-if="posts.length > 0" class="row">
