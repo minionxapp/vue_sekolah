@@ -51,6 +51,13 @@
               KONTAK</router-link
             >
           </li>
+
+          <li class="nav-item">
+            <router-link :to="{ name: 'login' }" class="nav-link"
+              ><i class="fa fa-phone" aria-hidden="true"></i>
+              Login</router-link
+            >
+          </li>
         </ul>
       </div>
     </div>
